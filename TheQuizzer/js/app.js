@@ -1,4 +1,4 @@
-var string = [""];
+var string = ["12"];
 
 var selection = prompt ("")
 
