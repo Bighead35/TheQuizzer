@@ -1,6 +1,6 @@
-var string = [""];
+var string = [""12];
 
-var selection = prompt ("")
+var selection = prompt ("watchvideo")
 
 
 if (string.includes(selection)) {
